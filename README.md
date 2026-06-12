@@ -2,8 +2,8 @@
 
 ## Live Project
 
-* DataLab Project: [Paste your DataLab link here]
-* GitHub Repository: [Repository URL]
+* DataLab Project: [https://www.datacamp.com/datalab/w/1e7638a7-bb8d-48e3-87c3-2457cc9fb8ed/edit]
+* GitHub Repository: [(https://github.com/jprool/Bank-Marketing-Data-Cleaning-and-Transformation-Pipeline)]
 
 ## Project Overview
 
